@@ -133,7 +133,7 @@ void signal_handler(int signo){
     if (signo==EOF){
 
         printf("\n you have killed your shell");
-       i
+
     }
 
 }
